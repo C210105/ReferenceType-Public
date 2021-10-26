@@ -5,7 +5,7 @@ public class Main {
         String obj2 = "B";
         String obj3 = "C";
 
-        Object answer = obj2;
+        String answer = obj2;
 
         System.out.println("obj1: " + obj1);
         System.out.println("obj2: " + obj2);
