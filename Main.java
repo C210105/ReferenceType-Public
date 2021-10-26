@@ -1,9 +1,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        Object obj1 = new Object();
-        Object obj2 = new Object();
-        Object obj3 = new Object();
+        String obj1 = "A";
+        String obj2 = "B";
+        String obj3 = "C";
 
         Object answer = obj2;
 
